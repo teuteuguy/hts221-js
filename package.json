@@ -1,0 +1,23 @@
+{
+  "name": "hts221-js",
+  "version": "0.0.1",
+  "description": "Javascript module for HTS221",
+  "main": "index.js",
+  "dependencies": {
+    "i2c-bus": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teuteuguy/hts221-js.git"
+  },
+  "author": "teuteuguy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teuteuguy/hts221-js/issues"
+  },
+  "homepage": "https://github.com/teuteuguy/hts221-js#readme"
+}
